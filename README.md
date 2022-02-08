@@ -1,6 +1,6 @@
 # PROJECT - PACKAGE DELIVERY
 
-![game banner](/_GameProject/screenshots/game_banner.jpg)
+![game banner](/screenshots/game_banner.jpg)
 
 ## Cel gry
 Gra polega na tym, że jeździmy *paczko-robotem* po mapie i zbieramy paczki i odwozimy je do paczkomatu. 
@@ -56,12 +56,12 @@ Zaimplementowanie **menu kontekstowego**, w którym mamy możliwość zmiany nie
 ## Menu
 |                                                     |                                                        |
 | --------------------------------------------------- | ------------------------------------------------------ | 
-| ![](/_GameProject/screenshots/menu.jpg)             | ![](/_GameProject/screenshots/menu_hud_options.jpg)    |
-| ![](/_GameProject/screenshots/menu_player_view.jpg) | ![](/_GameProject/screenshots/menu_video_settings.jpg) |
+| ![](/screenshots/menu.jpg)             | ![](/screenshots/menu_hud_options.jpg)    |
+| ![](/screenshots/menu_player_view.jpg) | ![](/screenshots/menu_video_settings.jpg) |
 
 
 ## Player view
 |                                                     |                  |
 | --------------------------------------------------- | ---------------- |
-| ![](/_GameProject/screenshots/player_view_1-person.jpg) | First Person |
-| ![](/_GameProject/screenshots/player_view_3-person.jpg) | Third Person | 
+| ![](/screenshots/player_view_1-person.jpg) | First Person |
+| ![](/screenshots/player_view_3-person.jpg) | Third Person | 
